@@ -10,6 +10,9 @@
 │   └── ...                # 其他代码中用到的图片  
 └── 基于FashionMNIST数据集的分类.ipynb        # notebook文件 
 
+## 注意事项
+如果只想查看nootebook代码的结果，请将images文件夹一并下载，notebook文件中的部分非输出图片保存在images中！不下载的话看不到原理图！
+
 ## 环境要求
 Python 3.8+  
 依赖库：
