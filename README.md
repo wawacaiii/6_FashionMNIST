@@ -3,10 +3,10 @@
 ## 项目结构:
 6_FashionMNIST/  
 ├── data/                  # 数据集存放目录  
-│   ├── fashion-mnist_train.csv  # 该文件太大上传失败哦
+│   ├── fashion-mnist_train.csv  # 该文件太大上传失败哦  
 │   └── fashion-mnist_test.csv  
 ├── images/                # 可视化结果保存目录  
-│   └── ConfusionMatrixes/ # 混淆矩阵保存的文件夹
+│   └── ConfusionMatrixes/ # 混淆矩阵保存的文件夹  
 │   └── ...                # 其他代码中用到的图片  
 └── 基于FashionMNIST数据集的分类.ipynb        # notebook文件 
 
