@@ -7,15 +7,9 @@
 │   └── fashion-mnist_test.csv  
 ├── images/                # 可视化结果保存目录  
 │   └── ConfusionMatrixes/  
-├── models/                # 训练好的模型保存目录  
-├── src/                   # 源代码目录  
-│   ├── data_processing.py # 数据处理模块  
-│   ├── model_training.py  # 模型训练模块  
-│   ├── model_evaluation.py# 模型评估模块  
-│   └── visualization.py   # 可视化模块  
-├── utils/                 # 工具函数  
-├── requirements.txt       # 环境依赖  
+│   └── ...                # 其他代码中用到的图片  
 └── main.py                # 主程序入口  
+└── 基于FashionMNIST数据集的分类.ipynb        # notebook文件 
 
 ## 环境要求
 Python 3.8+  
