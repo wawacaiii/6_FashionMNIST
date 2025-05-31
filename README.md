@@ -20,6 +20,10 @@ scikit-learn==1.2.2
 seaborn==0.12.2  
 torch==2.0.0  
 
+## 数据集下载地址
+
+https://www.kaggle.com/datasets/zalando-research/fashionmnist/code
+
 ## 模型实现
 本项目实现了 8 种分类模型，涵盖传统机器学习与深度学习：
 
