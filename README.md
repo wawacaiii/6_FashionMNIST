@@ -11,7 +11,7 @@
 └── 基于FashionMNIST数据集的分类.ipynb        # notebook文件 
 
 ## 注意事项
-如果只想查看nootebook代码的结果，请将images文件夹一并下载，notebook文件中的部分非输出图片保存在images中！不下载的话看不到原理图！
+如果只想查看nootebook代码的结果，请将images文件夹一并下载，notebook文件中的部分非输出图片保存在images中！不下载的话看不到原理图！如果直接在github上查看notebook文件似乎也可以。
 
 ## 环境要求
 Python 3.8+  
